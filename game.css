@@ -1,0 +1,66 @@
+body {
+	background: url(https://i.pinimg.com/736x/bf/e8/26/bfe8267af3fc1fae7f49afd0aa1b43a4.jpg
+)
+}
+
+
+
+.login_div1,
+.login_div2 {
+	background: url(https://i.pinimg.com/originals/9a/f0/e8/9af0e803c572ec6d2fdc96f94f6e8844.jpg);
+	padding: 10px;
+	float: none;
+	border-radius: 15px;
+}
+
+#heading{
+	color:rgb(186, 114, 245);
+	font-family: COMIC SANS MS;
+	font-weight: bold;
+}
+
+#login1, #login2 {
+
+	color:rgb(192, 49, 228);
+	font-family: COMIC SANS MS;
+}
+
+#player1_name,
+#player2_name {
+	display: inline-block;
+	margin-left: 20px;
+	color: blanchedalmond;
+}
+
+
+#player1_score, #player2_score{
+	color: cornsilk;
+}
+
+#player_question, #player_answer{
+	color: darkcyan;
+}
+
+#word {
+	width: 60%;
+}
+
+#word_display {
+	letter-spacing: 5px;
+}
+
+#output {
+	background: rgb(154, 62, 197);
+	border-radius: 10px;
+	border-top: 10px solid #ffffff;
+	padding: 10px;
+	float: none;
+	text-align: left;
+}
+
+
+#player1_name_input,
+#player2_name_input {
+
+	color: rgb(74, 2, 83);
+}
